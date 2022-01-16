@@ -1,0 +1,40 @@
+
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: white;
+    font-size: larger;
+}
+
+
+.quem-somos {
+    background-color:forestgreen;
+    color: white;
+}
+
+.parceiros-flu {
+    background-color: white;
+    color: black;
+}
+
+.seja-socio {
+    background-color:firebrick;
+    color: white;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.nav-link {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
